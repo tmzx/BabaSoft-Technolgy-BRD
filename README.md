@@ -26,4 +26,4 @@ Success Metrics: KPIs to evaluate the effectiveness of campaigns.
 The Expert Advertising BRD is designed to provide businesses with a roadmap for leveraging social media platforms to enhance brand visibility, drive customer engagement, and achieve measurable results.
 
 ## Contact
-For questions or collaboration inquiries, please contact Manish Tamang at `tamang.manish410@gmail.com` or 801-232-4056.
+For questions or collaboration inquiries, please contact Manish Tamang at `tamang.manish410@gmail.com`
